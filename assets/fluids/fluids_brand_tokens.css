@@ -1,0 +1,17 @@
+:root {
+  --fluids-midnight-navy: #0D1B2A;
+  --fluids-porcelain: #F8F4ED;
+  --fluids-stone: #DED3C4;
+  --fluids-raspberry: #C62B4F;
+  --fluids-carrot: #E87113;
+  --fluids-lemon: #F2BE37;
+  --fluids-lime: #799737;
+  --fluids-coconut: #D5E1E1;
+  --fluids-copper: #9D6F43;
+  --fluids-display-font: "GFS Didot", "Bodoni 72", Didot, serif;
+  --fluids-body-font: Inter, ui-sans-serif, system-ui, sans-serif;
+  --fluids-radius-sm: 10px;
+  --fluids-radius-md: 20px;
+  --fluids-radius-lg: 32px;
+  --fluids-shadow-soft: 0 24px 80px rgba(13, 27, 42, 0.13);
+}

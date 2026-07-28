@@ -1,0 +1,147 @@
+{
+  "brand": "Fluids",
+  "blend": "Raspberry Lemonade",
+  "assets": [
+    {
+      "file": "fluids_assets_preview.jpg",
+      "description": "Supporting brand asset.",
+      "width": 1560,
+      "height": 1680,
+      "mode": "RGB"
+    },
+    {
+      "file": "fluids_box_3d_transparent.png",
+      "description": "Isolated Raspberry Lemonade box render with transparent background.",
+      "width": 1600,
+      "height": 1900,
+      "mode": "RGBA"
+    },
+    {
+      "file": "fluids_box_front_artwork.png",
+      "description": "Flat front-panel packaging artwork.",
+      "width": 1000,
+      "height": 1450,
+      "mode": "RGBA"
+    },
+    {
+      "file": "fluids_brand_board_reference.png",
+      "description": "Full approved ultra-premium visual identity board.",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB"
+    },
+    {
+      "file": "fluids_brand_palette.png",
+      "description": "Brand color palette and hex codes.",
+      "width": 1800,
+      "height": 520,
+      "mode": "RGBA"
+    },
+    {
+      "file": "fluids_brand_tokens.css",
+      "description": "Supporting brand asset."
+    },
+    {
+      "file": "fluids_ingredients_and_matrix_scene.png",
+      "description": "Ingredient still life with the nutrient matrix.",
+      "width": 1400,
+      "height": 1000,
+      "mode": "RGB"
+    },
+    {
+      "file": "fluids_logo_primary_transparent.png",
+      "description": "Primary navy-and-copper logo lockup with transparent background.",
+      "width": 2400,
+      "height": 1218,
+      "mode": "RGBA"
+    },
+    {
+      "file": "fluids_logo_reverse_transparent.png",
+      "description": "White reverse logo lockup for dark backgrounds.",
+      "width": 2400,
+      "height": 1218,
+      "mode": "RGBA"
+    },
+    {
+      "file": "fluids_mobile_profile_ui_reference.png",
+      "description": "Reference mobile profile screens.",
+      "width": 1200,
+      "height": 1200,
+      "mode": "RGB"
+    },
+    {
+      "file": "fluids_nutrient_matrix_orb_transparent.png",
+      "description": "3D nutrient matrix mark based on the eight-nutrient recommendation profile.",
+      "width": 1400,
+      "height": 1400,
+      "mode": "RGBA"
+    },
+    {
+      "file": "fluids_nutrient_profile.json",
+      "description": "Supporting brand asset."
+    },
+    {
+      "file": "fluids_nutrient_profile_chart.png",
+      "description": "Accurate visual treatment of the provided nutrient profile.",
+      "width": 1800,
+      "height": 1250,
+      "mode": "RGBA"
+    },
+    {
+      "file": "fluids_pouch_pouring_into_water_4x5.png",
+      "description": "Portrait lifestyle image showing powder poured into water.",
+      "width": 1200,
+      "height": 1500,
+      "mode": "RGB"
+    },
+    {
+      "file": "fluids_pouch_powder_and_glass_4x5.png",
+      "description": "Portrait still life with stick pack, powder, and mixed drink.",
+      "width": 1200,
+      "height": 1500,
+      "mode": "RGB"
+    },
+    {
+      "file": "fluids_product_family_transparent.png",
+      "description": "Box, stick pack, and nutrient matrix product family composition on transparency.",
+      "width": 2600,
+      "height": 1800,
+      "mode": "RGBA"
+    },
+    {
+      "file": "fluids_product_hero_porcelain.png",
+      "description": "Wide product hero on a porcelain background with no embedded headline.",
+      "width": 2400,
+      "height": 1400,
+      "mode": "RGBA"
+    },
+    {
+      "file": "fluids_stick_pack_and_drink_wide.png",
+      "description": "Wide strip image with stick pack, mixed drink, lime, and carrot.",
+      "width": 2000,
+      "height": 600,
+      "mode": "RGB"
+    },
+    {
+      "file": "fluids_stick_pack_transparent.png",
+      "description": "Isolated stick pack render with transparent background.",
+      "width": 800,
+      "height": 1900,
+      "mode": "RGBA"
+    },
+    {
+      "file": "fluids_website_hero_reference.png",
+      "description": "Reference website hero concept from the approved visual board.",
+      "width": 2000,
+      "height": 1000,
+      "mode": "RGB"
+    },
+    {
+      "file": "fluids_wordmark_primary_transparent.png",
+      "description": "Wordmark only, transparent background.",
+      "width": 2400,
+      "height": 920,
+      "mode": "RGBA"
+    }
+  ]
+}

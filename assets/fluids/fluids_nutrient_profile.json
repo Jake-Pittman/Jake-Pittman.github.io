@@ -1,0 +1,68 @@
+{
+  "blend": "Raspberry Lemonade",
+  "ingredients": [
+    "Raspberry",
+    "Carrot",
+    "Lemon",
+    "Coconut Water",
+    "Lime"
+  ],
+  "nutrients": [
+    {
+      "rank": 1,
+      "nutrient": "Fiber",
+      "type": "Macro",
+      "targetIncrease": "+5.69 g",
+      "recommendationSharePct": 14.6
+    },
+    {
+      "rank": 2,
+      "nutrient": "Polyunsaturated fat",
+      "type": "Macro",
+      "targetIncrease": "+0.31 g",
+      "recommendationSharePct": 14.5
+    },
+    {
+      "rank": 3,
+      "nutrient": "Zinc",
+      "type": "Mineral",
+      "targetIncrease": "+0.39 mg",
+      "recommendationSharePct": 12.5
+    },
+    {
+      "rank": 4,
+      "nutrient": "Total Fat",
+      "type": "Macro",
+      "targetIncrease": "+0.61 g",
+      "recommendationSharePct": 12.5
+    },
+    {
+      "rank": 5,
+      "nutrient": "Choline",
+      "type": "Macro",
+      "targetIncrease": "+11.9 mg",
+      "recommendationSharePct": 11.7
+    },
+    {
+      "rank": 6,
+      "nutrient": "Vitamin E",
+      "type": "Vitamin",
+      "targetIncrease": "+0.83 mg",
+      "recommendationSharePct": 11.6
+    },
+    {
+      "rank": 7,
+      "nutrient": "Iron",
+      "type": "Mineral",
+      "targetIncrease": "+0.66 mg",
+      "recommendationSharePct": 11.5
+    },
+    {
+      "rank": 8,
+      "nutrient": "Riboflavin",
+      "type": "Other",
+      "targetIncrease": "+0.050 mg",
+      "recommendationSharePct": 11.1
+    }
+  ]
+}

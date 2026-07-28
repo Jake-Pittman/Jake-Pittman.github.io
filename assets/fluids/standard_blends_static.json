@@ -1,0 +1,1888 @@
+{
+  "function_lanes": [
+    {
+      "custom_function_name": "Custom Daily Vitality",
+      "customer_description": "Broad daily micronutrient support with citrus, berry, and beet. Built for the largest population family and balanced across vitamin D, vitamin A, vitamin C, and magnesium opportunity signals.",
+      "data_rationale": "18.2% weighted share. Top formula: Lemon 18.5%, Raspberry 17.0%, Beet 13.5%. Top opportunities: Vitamin D, Vitamin A, Vitamin C, Magnesium.",
+      "description": "Broad daily micronutrient support with citrus, berry, and beet. Built for the largest population family and balanced across vitamin D, vitamin A, vitamin C, and magnesium opportunity signals.",
+      "fit_metrics": {
+        "lead_match_pct": 0.5145006007130745,
+        "mean_cosine": 0.8894888631542102,
+        "mean_top3_overlap": 2.1951551213910405,
+        "median_shift_pp": 26.941894521863738,
+        "p75_shift_pp": 30.047427052390045,
+        "strong_family_fit_pct": 0.5845971892279044,
+        "usable_or_better_fit_pct": 0.973491118224275
+      },
+      "formula_descriptor": "Lemon Raspberry Beet",
+      "formula_metrics": {
+        "lead_match_pct": 0.5145006007130745,
+        "mean_cosine": 0.8894888631542102,
+        "mean_top3_overlap": 2.1951551213910405,
+        "median_shift_pp": 26.941894521863738,
+        "p75_shift_pp": 30.047427052390045,
+        "strong_family_fit_pct": 0.5845971892279044,
+        "usable_or_better_fit_pct": 0.973491118224275
+      },
+      "formula_name": "Lemon Raspberry Beet",
+      "function_focus": [
+        "daily micronutrients",
+        "vitamin coverage",
+        "mineral support"
+      ],
+      "function_name": "Daily Vitality",
+      "headline": "Broad daily micronutrient support with citrus, berry, and beet. Built for the largest population family and balanced across vitamin D, vitamin A, vitamin C, and magnesium opportunity signals.",
+      "id": "K8-S1",
+      "ingredients": [
+        {
+          "blend_percent": 18.5,
+          "item": "Lemon",
+          "prototype_grams_15g": 2.775
+        },
+        {
+          "blend_percent": 17.0,
+          "item": "Raspberry",
+          "prototype_grams_15g": 2.55
+        },
+        {
+          "blend_percent": 13.5,
+          "item": "Beet",
+          "prototype_grams_15g": 2.025
+        },
+        {
+          "blend_percent": 9.0,
+          "item": "Strawberry",
+          "prototype_grams_15g": 1.35
+        },
+        {
+          "blend_percent": 7.5,
+          "item": "Blueberry",
+          "prototype_grams_15g": 1.125
+        },
+        {
+          "blend_percent": 7.5,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 1.125
+        },
+        {
+          "blend_percent": 5.0,
+          "item": "Turmeric",
+          "prototype_grams_15g": 0.75
+        },
+        {
+          "blend_percent": 4.5,
+          "item": "Mango",
+          "prototype_grams_15g": 0.675
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Daily Vitality",
+      "nutrient_focus": [
+        "daily micronutrients",
+        "vitamin coverage",
+        "mineral support"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Vitamin D",
+          "share": 96
+        },
+        {
+          "nutrient": "Vitamin A",
+          "share": 84
+        },
+        {
+          "nutrient": "Vitamin C",
+          "share": 76
+        },
+        {
+          "nutrient": "Magnesium",
+          "share": 66
+        }
+      ],
+      "population_share_pct": 18.2,
+      "population_weighted_pct": 0.18243363229770362,
+      "positioning": "Broad daily micronutrient support with citrus, berry, and beet. Built for the largest population family and balanced across vitamin D, vitamin A, vitamin C, and magnesium opportunity signals.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "daily micronutrients",
+        "vitamin coverage",
+        "mineral support"
+      ]
+    },
+    {
+      "custom_function_name": "Custom Heart + Flow",
+      "customer_description": "Beet and berry polyphenol support for heart, circulation, and healthy metabolic balance.",
+      "data_rationale": "16.4% weighted share. Top formula: Beet 18.0%, Raspberry 14.5%, Strawberry 12.5%. Strong Hs-CRP signal with vitamin A, vitamin C, magnesium, and fiber opportunity.",
+      "description": "Beet and berry polyphenol support for heart, circulation, and healthy metabolic balance.",
+      "fit_metrics": {
+        "lead_match_pct": 0.4030673753057385,
+        "mean_cosine": 0.8699655512667771,
+        "mean_top3_overlap": 1.97692223731456,
+        "median_shift_pp": 28.01974064487842,
+        "p75_shift_pp": 31.557526040127264,
+        "strong_family_fit_pct": 0.41491520596216996,
+        "usable_or_better_fit_pct": 0.917626214866385
+      },
+      "formula_descriptor": "Beet Raspberry Strawberry",
+      "formula_metrics": {
+        "lead_match_pct": 0.4030673753057385,
+        "mean_cosine": 0.8699655512667771,
+        "mean_top3_overlap": 1.97692223731456,
+        "median_shift_pp": 28.01974064487842,
+        "p75_shift_pp": 31.557526040127264,
+        "strong_family_fit_pct": 0.41491520596216996,
+        "usable_or_better_fit_pct": 0.917626214866385
+      },
+      "formula_name": "Beet Raspberry Strawberry",
+      "function_focus": [
+        "heart and flow",
+        "berry polyphenols",
+        "metabolic balance"
+      ],
+      "function_name": "Heart + Flow",
+      "headline": "Beet and berry polyphenol support for heart, circulation, and healthy metabolic balance.",
+      "id": "K8-S2",
+      "ingredients": [
+        {
+          "blend_percent": 18.0,
+          "item": "Beet",
+          "prototype_grams_15g": 2.7
+        },
+        {
+          "blend_percent": 14.5,
+          "item": "Raspberry",
+          "prototype_grams_15g": 2.175
+        },
+        {
+          "blend_percent": 12.5,
+          "item": "Strawberry",
+          "prototype_grams_15g": 1.875
+        },
+        {
+          "blend_percent": 9.0,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 1.35
+        },
+        {
+          "blend_percent": 9.0,
+          "item": "Mango",
+          "prototype_grams_15g": 1.35
+        },
+        {
+          "blend_percent": 8.5,
+          "item": "Turmeric",
+          "prototype_grams_15g": 1.275
+        },
+        {
+          "blend_percent": 6.5,
+          "item": "Blueberry",
+          "prototype_grams_15g": 0.975
+        },
+        {
+          "blend_percent": 3.5,
+          "item": "Kale",
+          "prototype_grams_15g": 0.525
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Heart + Flow",
+      "nutrient_focus": [
+        "heart and flow",
+        "berry polyphenols",
+        "metabolic balance"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Vitamin C",
+          "share": 84
+        },
+        {
+          "nutrient": "Magnesium",
+          "share": 70
+        },
+        {
+          "nutrient": "Fiber",
+          "share": 62
+        },
+        {
+          "nutrient": "Vitamin A",
+          "share": 54
+        }
+      ],
+      "population_share_pct": 16.4,
+      "population_weighted_pct": 0.1642350440539409,
+      "positioning": "Beet and berry polyphenol support for heart, circulation, and healthy metabolic balance.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "heart and flow",
+        "berry polyphenols",
+        "metabolic balance"
+      ]
+    },
+    {
+      "custom_function_name": "Custom Metabolic Lift",
+      "customer_description": "A citrus-root-tropical blend for healthy glucose metabolism, daily energy, and broad vitamin coverage.",
+      "data_rationale": "14.5% weighted share. Top formula: Lemon 19.0%, Beet 16.5%, Mango 11.0%. Higher fasting glucose and HbA1c priority signal with vitamin A, vitamin D, vitamin C, and magnesium opportunity.",
+      "description": "A citrus-root-tropical blend for healthy glucose metabolism, daily energy, and broad vitamin coverage.",
+      "fit_metrics": {
+        "lead_match_pct": 0.5366562615235888,
+        "mean_cosine": 0.8767931964106797,
+        "mean_top3_overlap": 2.0679214819629257,
+        "median_shift_pp": 27.745866274848453,
+        "p75_shift_pp": 31.742678816748015,
+        "strong_family_fit_pct": 0.5023591596785046,
+        "usable_or_better_fit_pct": 0.9576669142328815
+      },
+      "formula_descriptor": "Lemon Beet Mango",
+      "formula_metrics": {
+        "lead_match_pct": 0.5366562615235888,
+        "mean_cosine": 0.8767931964106797,
+        "mean_top3_overlap": 2.0679214819629257,
+        "median_shift_pp": 27.745866274848453,
+        "p75_shift_pp": 31.742678816748015,
+        "strong_family_fit_pct": 0.5023591596785046,
+        "usable_or_better_fit_pct": 0.9576669142328815
+      },
+      "formula_name": "Lemon Beet Mango",
+      "function_focus": [
+        "glucose metabolism",
+        "daily energy",
+        "vitamin coverage"
+      ],
+      "function_name": "Metabolic Lift",
+      "headline": "A citrus-root-tropical blend for healthy glucose metabolism, daily energy, and broad vitamin coverage.",
+      "id": "K8-S3",
+      "ingredients": [
+        {
+          "blend_percent": 19.0,
+          "item": "Lemon",
+          "prototype_grams_15g": 2.85
+        },
+        {
+          "blend_percent": 16.5,
+          "item": "Beet",
+          "prototype_grams_15g": 2.475
+        },
+        {
+          "blend_percent": 11.0,
+          "item": "Mango",
+          "prototype_grams_15g": 1.65
+        },
+        {
+          "blend_percent": 8.5,
+          "item": "Strawberry",
+          "prototype_grams_15g": 1.275
+        },
+        {
+          "blend_percent": 8.0,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 1.2
+        },
+        {
+          "blend_percent": 7.0,
+          "item": "Blueberry",
+          "prototype_grams_15g": 1.05
+        },
+        {
+          "blend_percent": 6.5,
+          "item": "Raspberry",
+          "prototype_grams_15g": 0.975
+        },
+        {
+          "blend_percent": 5.0,
+          "item": "Turmeric",
+          "prototype_grams_15g": 0.75
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Metabolic Lift",
+      "nutrient_focus": [
+        "glucose metabolism",
+        "daily energy",
+        "vitamin coverage"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Vitamin A",
+          "share": 88
+        },
+        {
+          "nutrient": "Vitamin D",
+          "share": 82
+        },
+        {
+          "nutrient": "Vitamin C",
+          "share": 72
+        },
+        {
+          "nutrient": "Magnesium",
+          "share": 64
+        }
+      ],
+      "population_share_pct": 14.5,
+      "population_weighted_pct": 0.14485525198954258,
+      "positioning": "A citrus-root-tropical blend for healthy glucose metabolism, daily energy, and broad vitamin coverage.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "glucose metabolism",
+        "daily energy",
+        "vitamin coverage"
+      ]
+    },
+    {
+      "custom_function_name": "Custom Antioxidant Minerals",
+      "customer_description": "A berry-forward mineral and antioxidant lane for daily cellular resilience.",
+      "data_rationale": "12.4% weighted share. Top formula: Blueberry 19.5%, Beet 15.5%, Raspberry 12.5%. Highest magnesium opportunity among the first four standards, with vitamin A and vitamin C support.",
+      "description": "A berry-forward mineral and antioxidant lane for daily cellular resilience.",
+      "fit_metrics": {
+        "lead_match_pct": 0.4897362024941832,
+        "mean_cosine": 0.8651079712680207,
+        "mean_top3_overlap": 2.098921161447918,
+        "median_shift_pp": 29.493131443305522,
+        "p75_shift_pp": 33.12795577177908,
+        "strong_family_fit_pct": 0.48101566157785836,
+        "usable_or_better_fit_pct": 0.9171974528168594
+      },
+      "formula_descriptor": "Blueberry Beet Raspberry",
+      "formula_metrics": {
+        "lead_match_pct": 0.4897362024941832,
+        "mean_cosine": 0.8651079712680207,
+        "mean_top3_overlap": 2.098921161447918,
+        "median_shift_pp": 29.493131443305522,
+        "p75_shift_pp": 33.12795577177908,
+        "strong_family_fit_pct": 0.48101566157785836,
+        "usable_or_better_fit_pct": 0.9171974528168594
+      },
+      "formula_name": "Blueberry Beet Raspberry",
+      "function_focus": [
+        "antioxidants",
+        "minerals",
+        "cellular resilience"
+      ],
+      "function_name": "Antioxidant Minerals",
+      "headline": "A berry-forward mineral and antioxidant lane for daily cellular resilience.",
+      "id": "K8-S4",
+      "ingredients": [
+        {
+          "blend_percent": 19.5,
+          "item": "Blueberry",
+          "prototype_grams_15g": 2.925
+        },
+        {
+          "blend_percent": 15.5,
+          "item": "Beet",
+          "prototype_grams_15g": 2.325
+        },
+        {
+          "blend_percent": 12.5,
+          "item": "Raspberry",
+          "prototype_grams_15g": 1.875
+        },
+        {
+          "blend_percent": 8.0,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 1.2
+        },
+        {
+          "blend_percent": 8.0,
+          "item": "Mango",
+          "prototype_grams_15g": 1.2
+        },
+        {
+          "blend_percent": 7.5,
+          "item": "Strawberry",
+          "prototype_grams_15g": 1.125
+        },
+        {
+          "blend_percent": 7.0,
+          "item": "Turmeric",
+          "prototype_grams_15g": 1.05
+        },
+        {
+          "blend_percent": 3.5,
+          "item": "Pineapple",
+          "prototype_grams_15g": 0.525
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Antioxidant Minerals",
+      "nutrient_focus": [
+        "antioxidants",
+        "minerals",
+        "cellular resilience"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Magnesium",
+          "share": 92
+        },
+        {
+          "nutrient": "Vitamin A",
+          "share": 74
+        },
+        {
+          "nutrient": "Vitamin C",
+          "share": 68
+        },
+        {
+          "nutrient": "Copper",
+          "share": 52
+        }
+      ],
+      "population_share_pct": 12.4,
+      "population_weighted_pct": 0.12448287020895893,
+      "positioning": "A berry-forward mineral and antioxidant lane for daily cellular resilience.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "antioxidants",
+        "minerals",
+        "cellular resilience"
+      ]
+    },
+    {
+      "custom_function_name": "Custom Liver Vitality",
+      "customer_description": "Carrot, citrus, and beet support for liver function, vitamin A status, and everyday vitality.",
+      "data_rationale": "10.8% weighted share. Top formula: Carrot 21.5%, Lemon 18.5%, Beet 12.5%. Strongest median reward among K=8 standards, with ALT and GGT appearing more prominently in the priority layer.",
+      "description": "Carrot, citrus, and beet support for liver function, vitamin A status, and everyday vitality.",
+      "fit_metrics": {
+        "lead_match_pct": 0.4873175570553579,
+        "mean_cosine": 0.8851914483668568,
+        "mean_top3_overlap": 2.2615648911963144,
+        "median_shift_pp": 27.630516000615593,
+        "p75_shift_pp": 31.633844377868677,
+        "strong_family_fit_pct": 0.5593864321433367,
+        "usable_or_better_fit_pct": 0.9572488275331251
+      },
+      "formula_descriptor": "Carrot Lemon Beet",
+      "formula_metrics": {
+        "lead_match_pct": 0.4873175570553579,
+        "mean_cosine": 0.8851914483668568,
+        "mean_top3_overlap": 2.2615648911963144,
+        "median_shift_pp": 27.630516000615593,
+        "p75_shift_pp": 31.633844377868677,
+        "strong_family_fit_pct": 0.5593864321433367,
+        "usable_or_better_fit_pct": 0.9572488275331251
+      },
+      "formula_name": "Carrot Lemon Beet",
+      "function_focus": [
+        "liver support",
+        "vitamin A",
+        "everyday vitality"
+      ],
+      "function_name": "Liver Vitality",
+      "headline": "Carrot, citrus, and beet support for liver function, vitamin A status, and everyday vitality.",
+      "id": "K8-S5",
+      "ingredients": [
+        {
+          "blend_percent": 21.5,
+          "item": "Carrot",
+          "prototype_grams_15g": 3.225
+        },
+        {
+          "blend_percent": 18.5,
+          "item": "Lemon",
+          "prototype_grams_15g": 2.775
+        },
+        {
+          "blend_percent": 12.5,
+          "item": "Beet",
+          "prototype_grams_15g": 1.875
+        },
+        {
+          "blend_percent": 7.5,
+          "item": "Raspberry",
+          "prototype_grams_15g": 1.125
+        },
+        {
+          "blend_percent": 7.0,
+          "item": "Strawberry",
+          "prototype_grams_15g": 1.05
+        },
+        {
+          "blend_percent": 6.5,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 0.975
+        },
+        {
+          "blend_percent": 5.5,
+          "item": "Mango",
+          "prototype_grams_15g": 0.825
+        },
+        {
+          "blend_percent": 5.0,
+          "item": "Blueberry",
+          "prototype_grams_15g": 0.75
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Liver Vitality",
+      "nutrient_focus": [
+        "liver support",
+        "vitamin A",
+        "everyday vitality"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Vitamin A",
+          "share": 94
+        },
+        {
+          "nutrient": "Vitamin C",
+          "share": 70
+        },
+        {
+          "nutrient": "Magnesium",
+          "share": 58
+        },
+        {
+          "nutrient": "Fiber",
+          "share": 48
+        }
+      ],
+      "population_share_pct": 10.8,
+      "population_weighted_pct": 0.10835550395511491,
+      "positioning": "Carrot, citrus, and beet support for liver function, vitamin A status, and everyday vitality.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "liver support",
+        "vitamin A",
+        "everyday vitality"
+      ]
+    },
+    {
+      "custom_function_name": "Custom Cellular Defense",
+      "customer_description": "Blueberry and citrus support for antioxidant defense, healthy aging signals, and daily micronutrient coverage.",
+      "data_rationale": "10.0% weighted share. Top formula: Blueberry 21.5%, Lemon 18.5%, Beet 9.5%. High vitamin D and vitamin C opportunity with stronger Hs-CRP and PhenoAge priority signals.",
+      "description": "Blueberry and citrus support for antioxidant defense, healthy aging signals, and daily micronutrient coverage.",
+      "fit_metrics": {
+        "lead_match_pct": 0.5917678151749967,
+        "mean_cosine": 0.8734201029290815,
+        "mean_top3_overlap": 2.146991354622071,
+        "median_shift_pp": 30.00269622901564,
+        "p75_shift_pp": 33.29043404355811,
+        "strong_family_fit_pct": 0.5029515998121664,
+        "usable_or_better_fit_pct": 0.9468020622551153
+      },
+      "formula_descriptor": "Blueberry Lemon Beet",
+      "formula_metrics": {
+        "lead_match_pct": 0.5917678151749967,
+        "mean_cosine": 0.8734201029290815,
+        "mean_top3_overlap": 2.146991354622071,
+        "median_shift_pp": 30.00269622901564,
+        "p75_shift_pp": 33.29043404355811,
+        "strong_family_fit_pct": 0.5029515998121664,
+        "usable_or_better_fit_pct": 0.9468020622551153
+      },
+      "formula_name": "Blueberry Lemon Beet",
+      "function_focus": [
+        "antioxidant defense",
+        "healthy aging signals",
+        "micronutrients"
+      ],
+      "function_name": "Cellular Defense",
+      "headline": "Blueberry and citrus support for antioxidant defense, healthy aging signals, and daily micronutrient coverage.",
+      "id": "K8-S6",
+      "ingredients": [
+        {
+          "blend_percent": 21.5,
+          "item": "Blueberry",
+          "prototype_grams_15g": 3.225
+        },
+        {
+          "blend_percent": 18.5,
+          "item": "Lemon",
+          "prototype_grams_15g": 2.775
+        },
+        {
+          "blend_percent": 9.5,
+          "item": "Beet",
+          "prototype_grams_15g": 1.425
+        },
+        {
+          "blend_percent": 7.5,
+          "item": "Raspberry",
+          "prototype_grams_15g": 1.125
+        },
+        {
+          "blend_percent": 6.0,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 0.9
+        },
+        {
+          "blend_percent": 5.5,
+          "item": "Mango",
+          "prototype_grams_15g": 0.825
+        },
+        {
+          "blend_percent": 5.0,
+          "item": "Strawberry",
+          "prototype_grams_15g": 0.75
+        },
+        {
+          "blend_percent": 4.5,
+          "item": "Turmeric",
+          "prototype_grams_15g": 0.675
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Cellular Defense",
+      "nutrient_focus": [
+        "antioxidant defense",
+        "healthy aging signals",
+        "micronutrients"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Vitamin D",
+          "share": 90
+        },
+        {
+          "nutrient": "Vitamin C",
+          "share": 84
+        },
+        {
+          "nutrient": "Vitamin A",
+          "share": 66
+        },
+        {
+          "nutrient": "Magnesium",
+          "share": 56
+        }
+      ],
+      "population_share_pct": 10.0,
+      "population_weighted_pct": 0.10022041028459906,
+      "positioning": "Blueberry and citrus support for antioxidant defense, healthy aging signals, and daily micronutrient coverage.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "antioxidant defense",
+        "healthy aging signals",
+        "micronutrients"
+      ]
+    },
+    {
+      "custom_function_name": "Custom Metabolic Resilience",
+      "customer_description": "A root-berry blend for metabolic resilience, healthy inflammatory balance, and mineral support.",
+      "data_rationale": "9.3% weighted share. Top formula: Carrot 17.5%, Beet 16.5%, Raspberry 12.0%. Highest Hs-CRP priority signal, with vitamin A, vitamin C, magnesium, vitamin E, copper, and fiber opportunity.",
+      "description": "A root-berry blend for metabolic resilience, healthy inflammatory balance, and mineral support.",
+      "fit_metrics": {
+        "lead_match_pct": 0.3518724609111816,
+        "mean_cosine": 0.8639409969230818,
+        "mean_top3_overlap": 1.9718262744025277,
+        "median_shift_pp": 28.97003087777164,
+        "p75_shift_pp": 32.800681579146655,
+        "strong_family_fit_pct": 0.3489282998452465,
+        "usable_or_better_fit_pct": 0.8887154438341817
+      },
+      "formula_descriptor": "Carrot Beet Raspberry",
+      "formula_metrics": {
+        "lead_match_pct": 0.3518724609111816,
+        "mean_cosine": 0.8639409969230818,
+        "mean_top3_overlap": 1.9718262744025277,
+        "median_shift_pp": 28.97003087777164,
+        "p75_shift_pp": 32.800681579146655,
+        "strong_family_fit_pct": 0.3489282998452465,
+        "usable_or_better_fit_pct": 0.8887154438341817
+      },
+      "formula_name": "Carrot Beet Raspberry",
+      "function_focus": [
+        "metabolic resilience",
+        "inflammatory balance",
+        "mineral support"
+      ],
+      "function_name": "Metabolic Resilience",
+      "headline": "A root-berry blend for metabolic resilience, healthy inflammatory balance, and mineral support.",
+      "id": "K8-S7",
+      "ingredients": [
+        {
+          "blend_percent": 17.5,
+          "item": "Carrot",
+          "prototype_grams_15g": 2.625
+        },
+        {
+          "blend_percent": 16.5,
+          "item": "Beet",
+          "prototype_grams_15g": 2.475
+        },
+        {
+          "blend_percent": 12.0,
+          "item": "Raspberry",
+          "prototype_grams_15g": 1.8
+        },
+        {
+          "blend_percent": 9.0,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 1.35
+        },
+        {
+          "blend_percent": 8.0,
+          "item": "Blueberry",
+          "prototype_grams_15g": 1.2
+        },
+        {
+          "blend_percent": 8.0,
+          "item": "Mango",
+          "prototype_grams_15g": 1.2
+        },
+        {
+          "blend_percent": 7.5,
+          "item": "Turmeric",
+          "prototype_grams_15g": 1.125
+        },
+        {
+          "blend_percent": 6.5,
+          "item": "Strawberry",
+          "prototype_grams_15g": 0.975
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Metabolic Resilience",
+      "nutrient_focus": [
+        "metabolic resilience",
+        "inflammatory balance",
+        "mineral support"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Vitamin A",
+          "share": 88
+        },
+        {
+          "nutrient": "Vitamin C",
+          "share": 78
+        },
+        {
+          "nutrient": "Magnesium",
+          "share": 68
+        },
+        {
+          "nutrient": "Vitamin E",
+          "share": 52
+        },
+        {
+          "nutrient": "Copper",
+          "share": 46
+        },
+        {
+          "nutrient": "Fiber",
+          "share": 42
+        }
+      ],
+      "population_share_pct": 9.3,
+      "population_weighted_pct": 0.09267028536107737,
+      "positioning": "A root-berry blend for metabolic resilience, healthy inflammatory balance, and mineral support.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "metabolic resilience",
+        "inflammatory balance",
+        "mineral support"
+      ]
+    },
+    {
+      "custom_function_name": "Custom Recovery Balance",
+      "customer_description": "Tart cherry, citrus, and beet support for recovery, hydration, and healthy metabolic balance.",
+      "data_rationale": "8.3% weighted share. Top formula: Lemon 18.5%, Beet 10.0%, Tart Cherry 9.5%. Strong glucose and HbA1c priority signal with vitamin D, vitamin C, vitamin A, and magnesium opportunity.",
+      "description": "Tart cherry, citrus, and beet support for recovery, hydration, and healthy metabolic balance.",
+      "fit_metrics": {
+        "lead_match_pct": 0.6586094099164733,
+        "mean_cosine": 0.8225504058441454,
+        "mean_top3_overlap": 1.6253870486077178,
+        "median_shift_pp": 33.96940575726753,
+        "p75_shift_pp": 37.84230950319944,
+        "strong_family_fit_pct": 0.27406282372498686,
+        "usable_or_better_fit_pct": 0.7399193148622195
+      },
+      "formula_descriptor": "Lemon Beet Tart Cherry",
+      "formula_metrics": {
+        "lead_match_pct": 0.6586094099164733,
+        "mean_cosine": 0.8225504058441454,
+        "mean_top3_overlap": 1.6253870486077178,
+        "median_shift_pp": 33.96940575726753,
+        "p75_shift_pp": 37.84230950319944,
+        "strong_family_fit_pct": 0.27406282372498686,
+        "usable_or_better_fit_pct": 0.7399193148622195
+      },
+      "formula_name": "Lemon Beet Tart Cherry",
+      "function_focus": [
+        "recovery",
+        "hydration",
+        "metabolic balance"
+      ],
+      "function_name": "Recovery Balance",
+      "headline": "Tart cherry, citrus, and beet support for recovery, hydration, and healthy metabolic balance.",
+      "id": "K8-S8",
+      "ingredients": [
+        {
+          "blend_percent": 18.5,
+          "item": "Lemon",
+          "prototype_grams_15g": 2.775
+        },
+        {
+          "blend_percent": 10.0,
+          "item": "Beet",
+          "prototype_grams_15g": 1.5
+        },
+        {
+          "blend_percent": 9.5,
+          "item": "Tart Cherry",
+          "prototype_grams_15g": 1.425
+        },
+        {
+          "blend_percent": 8.5,
+          "item": "Pineapple",
+          "prototype_grams_15g": 1.275
+        },
+        {
+          "blend_percent": 7.0,
+          "item": "Blueberry",
+          "prototype_grams_15g": 1.05
+        },
+        {
+          "blend_percent": 7.0,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 1.05
+        },
+        {
+          "blend_percent": 7.0,
+          "item": "Lime",
+          "prototype_grams_15g": 1.05
+        },
+        {
+          "blend_percent": 6.0,
+          "item": "Raspberry",
+          "prototype_grams_15g": 0.9
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Recovery Balance",
+      "nutrient_focus": [
+        "recovery",
+        "hydration",
+        "metabolic balance"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Vitamin D",
+          "share": 86
+        },
+        {
+          "nutrient": "Vitamin C",
+          "share": 78
+        },
+        {
+          "nutrient": "Vitamin A",
+          "share": 64
+        },
+        {
+          "nutrient": "Magnesium",
+          "share": 56
+        },
+        {
+          "nutrient": "Potassium",
+          "share": 44
+        }
+      ],
+      "population_share_pct": 8.3,
+      "population_weighted_pct": 0.08274700184906252,
+      "positioning": "Tart cherry, citrus, and beet support for recovery, hydration, and healthy metabolic balance.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "recovery",
+        "hydration",
+        "metabolic balance"
+      ]
+    }
+  ],
+  "ok": true,
+  "population_standard_blends": [
+    {
+      "custom_function_name": "Custom Daily Vitality",
+      "customer_description": "Broad daily micronutrient support with citrus, berry, and beet. Built for the largest population family and balanced across vitamin D, vitamin A, vitamin C, and magnesium opportunity signals.",
+      "data_rationale": "18.2% weighted share. Top formula: Lemon 18.5%, Raspberry 17.0%, Beet 13.5%. Top opportunities: Vitamin D, Vitamin A, Vitamin C, Magnesium.",
+      "description": "Broad daily micronutrient support with citrus, berry, and beet. Built for the largest population family and balanced across vitamin D, vitamin A, vitamin C, and magnesium opportunity signals.",
+      "fit_metrics": {
+        "lead_match_pct": 0.5145006007130745,
+        "mean_cosine": 0.8894888631542102,
+        "mean_top3_overlap": 2.1951551213910405,
+        "median_shift_pp": 26.941894521863738,
+        "p75_shift_pp": 30.047427052390045,
+        "strong_family_fit_pct": 0.5845971892279044,
+        "usable_or_better_fit_pct": 0.973491118224275
+      },
+      "formula_descriptor": "Lemon Raspberry Beet",
+      "formula_metrics": {
+        "lead_match_pct": 0.5145006007130745,
+        "mean_cosine": 0.8894888631542102,
+        "mean_top3_overlap": 2.1951551213910405,
+        "median_shift_pp": 26.941894521863738,
+        "p75_shift_pp": 30.047427052390045,
+        "strong_family_fit_pct": 0.5845971892279044,
+        "usable_or_better_fit_pct": 0.973491118224275
+      },
+      "formula_name": "Lemon Raspberry Beet",
+      "function_focus": [
+        "daily micronutrients",
+        "vitamin coverage",
+        "mineral support"
+      ],
+      "function_name": "Daily Vitality",
+      "headline": "Broad daily micronutrient support with citrus, berry, and beet. Built for the largest population family and balanced across vitamin D, vitamin A, vitamin C, and magnesium opportunity signals.",
+      "id": "K8-S1",
+      "ingredients": [
+        {
+          "blend_percent": 18.5,
+          "item": "Lemon",
+          "prototype_grams_15g": 2.775
+        },
+        {
+          "blend_percent": 17.0,
+          "item": "Raspberry",
+          "prototype_grams_15g": 2.55
+        },
+        {
+          "blend_percent": 13.5,
+          "item": "Beet",
+          "prototype_grams_15g": 2.025
+        },
+        {
+          "blend_percent": 9.0,
+          "item": "Strawberry",
+          "prototype_grams_15g": 1.35
+        },
+        {
+          "blend_percent": 7.5,
+          "item": "Blueberry",
+          "prototype_grams_15g": 1.125
+        },
+        {
+          "blend_percent": 7.5,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 1.125
+        },
+        {
+          "blend_percent": 5.0,
+          "item": "Turmeric",
+          "prototype_grams_15g": 0.75
+        },
+        {
+          "blend_percent": 4.5,
+          "item": "Mango",
+          "prototype_grams_15g": 0.675
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Daily Vitality",
+      "nutrient_focus": [
+        "daily micronutrients",
+        "vitamin coverage",
+        "mineral support"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Vitamin D",
+          "share": 96
+        },
+        {
+          "nutrient": "Vitamin A",
+          "share": 84
+        },
+        {
+          "nutrient": "Vitamin C",
+          "share": 76
+        },
+        {
+          "nutrient": "Magnesium",
+          "share": 66
+        }
+      ],
+      "population_share_pct": 18.2,
+      "population_weighted_pct": 0.18243363229770362,
+      "positioning": "Broad daily micronutrient support with citrus, berry, and beet. Built for the largest population family and balanced across vitamin D, vitamin A, vitamin C, and magnesium opportunity signals.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "daily micronutrients",
+        "vitamin coverage",
+        "mineral support"
+      ]
+    },
+    {
+      "custom_function_name": "Custom Heart + Flow",
+      "customer_description": "Beet and berry polyphenol support for heart, circulation, and healthy metabolic balance.",
+      "data_rationale": "16.4% weighted share. Top formula: Beet 18.0%, Raspberry 14.5%, Strawberry 12.5%. Strong Hs-CRP signal with vitamin A, vitamin C, magnesium, and fiber opportunity.",
+      "description": "Beet and berry polyphenol support for heart, circulation, and healthy metabolic balance.",
+      "fit_metrics": {
+        "lead_match_pct": 0.4030673753057385,
+        "mean_cosine": 0.8699655512667771,
+        "mean_top3_overlap": 1.97692223731456,
+        "median_shift_pp": 28.01974064487842,
+        "p75_shift_pp": 31.557526040127264,
+        "strong_family_fit_pct": 0.41491520596216996,
+        "usable_or_better_fit_pct": 0.917626214866385
+      },
+      "formula_descriptor": "Beet Raspberry Strawberry",
+      "formula_metrics": {
+        "lead_match_pct": 0.4030673753057385,
+        "mean_cosine": 0.8699655512667771,
+        "mean_top3_overlap": 1.97692223731456,
+        "median_shift_pp": 28.01974064487842,
+        "p75_shift_pp": 31.557526040127264,
+        "strong_family_fit_pct": 0.41491520596216996,
+        "usable_or_better_fit_pct": 0.917626214866385
+      },
+      "formula_name": "Beet Raspberry Strawberry",
+      "function_focus": [
+        "heart and flow",
+        "berry polyphenols",
+        "metabolic balance"
+      ],
+      "function_name": "Heart + Flow",
+      "headline": "Beet and berry polyphenol support for heart, circulation, and healthy metabolic balance.",
+      "id": "K8-S2",
+      "ingredients": [
+        {
+          "blend_percent": 18.0,
+          "item": "Beet",
+          "prototype_grams_15g": 2.7
+        },
+        {
+          "blend_percent": 14.5,
+          "item": "Raspberry",
+          "prototype_grams_15g": 2.175
+        },
+        {
+          "blend_percent": 12.5,
+          "item": "Strawberry",
+          "prototype_grams_15g": 1.875
+        },
+        {
+          "blend_percent": 9.0,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 1.35
+        },
+        {
+          "blend_percent": 9.0,
+          "item": "Mango",
+          "prototype_grams_15g": 1.35
+        },
+        {
+          "blend_percent": 8.5,
+          "item": "Turmeric",
+          "prototype_grams_15g": 1.275
+        },
+        {
+          "blend_percent": 6.5,
+          "item": "Blueberry",
+          "prototype_grams_15g": 0.975
+        },
+        {
+          "blend_percent": 3.5,
+          "item": "Kale",
+          "prototype_grams_15g": 0.525
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Heart + Flow",
+      "nutrient_focus": [
+        "heart and flow",
+        "berry polyphenols",
+        "metabolic balance"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Vitamin C",
+          "share": 84
+        },
+        {
+          "nutrient": "Magnesium",
+          "share": 70
+        },
+        {
+          "nutrient": "Fiber",
+          "share": 62
+        },
+        {
+          "nutrient": "Vitamin A",
+          "share": 54
+        }
+      ],
+      "population_share_pct": 16.4,
+      "population_weighted_pct": 0.1642350440539409,
+      "positioning": "Beet and berry polyphenol support for heart, circulation, and healthy metabolic balance.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "heart and flow",
+        "berry polyphenols",
+        "metabolic balance"
+      ]
+    },
+    {
+      "custom_function_name": "Custom Metabolic Lift",
+      "customer_description": "A citrus-root-tropical blend for healthy glucose metabolism, daily energy, and broad vitamin coverage.",
+      "data_rationale": "14.5% weighted share. Top formula: Lemon 19.0%, Beet 16.5%, Mango 11.0%. Higher fasting glucose and HbA1c priority signal with vitamin A, vitamin D, vitamin C, and magnesium opportunity.",
+      "description": "A citrus-root-tropical blend for healthy glucose metabolism, daily energy, and broad vitamin coverage.",
+      "fit_metrics": {
+        "lead_match_pct": 0.5366562615235888,
+        "mean_cosine": 0.8767931964106797,
+        "mean_top3_overlap": 2.0679214819629257,
+        "median_shift_pp": 27.745866274848453,
+        "p75_shift_pp": 31.742678816748015,
+        "strong_family_fit_pct": 0.5023591596785046,
+        "usable_or_better_fit_pct": 0.9576669142328815
+      },
+      "formula_descriptor": "Lemon Beet Mango",
+      "formula_metrics": {
+        "lead_match_pct": 0.5366562615235888,
+        "mean_cosine": 0.8767931964106797,
+        "mean_top3_overlap": 2.0679214819629257,
+        "median_shift_pp": 27.745866274848453,
+        "p75_shift_pp": 31.742678816748015,
+        "strong_family_fit_pct": 0.5023591596785046,
+        "usable_or_better_fit_pct": 0.9576669142328815
+      },
+      "formula_name": "Lemon Beet Mango",
+      "function_focus": [
+        "glucose metabolism",
+        "daily energy",
+        "vitamin coverage"
+      ],
+      "function_name": "Metabolic Lift",
+      "headline": "A citrus-root-tropical blend for healthy glucose metabolism, daily energy, and broad vitamin coverage.",
+      "id": "K8-S3",
+      "ingredients": [
+        {
+          "blend_percent": 19.0,
+          "item": "Lemon",
+          "prototype_grams_15g": 2.85
+        },
+        {
+          "blend_percent": 16.5,
+          "item": "Beet",
+          "prototype_grams_15g": 2.475
+        },
+        {
+          "blend_percent": 11.0,
+          "item": "Mango",
+          "prototype_grams_15g": 1.65
+        },
+        {
+          "blend_percent": 8.5,
+          "item": "Strawberry",
+          "prototype_grams_15g": 1.275
+        },
+        {
+          "blend_percent": 8.0,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 1.2
+        },
+        {
+          "blend_percent": 7.0,
+          "item": "Blueberry",
+          "prototype_grams_15g": 1.05
+        },
+        {
+          "blend_percent": 6.5,
+          "item": "Raspberry",
+          "prototype_grams_15g": 0.975
+        },
+        {
+          "blend_percent": 5.0,
+          "item": "Turmeric",
+          "prototype_grams_15g": 0.75
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Metabolic Lift",
+      "nutrient_focus": [
+        "glucose metabolism",
+        "daily energy",
+        "vitamin coverage"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Vitamin A",
+          "share": 88
+        },
+        {
+          "nutrient": "Vitamin D",
+          "share": 82
+        },
+        {
+          "nutrient": "Vitamin C",
+          "share": 72
+        },
+        {
+          "nutrient": "Magnesium",
+          "share": 64
+        }
+      ],
+      "population_share_pct": 14.5,
+      "population_weighted_pct": 0.14485525198954258,
+      "positioning": "A citrus-root-tropical blend for healthy glucose metabolism, daily energy, and broad vitamin coverage.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "glucose metabolism",
+        "daily energy",
+        "vitamin coverage"
+      ]
+    },
+    {
+      "custom_function_name": "Custom Antioxidant Minerals",
+      "customer_description": "A berry-forward mineral and antioxidant lane for daily cellular resilience.",
+      "data_rationale": "12.4% weighted share. Top formula: Blueberry 19.5%, Beet 15.5%, Raspberry 12.5%. Highest magnesium opportunity among the first four standards, with vitamin A and vitamin C support.",
+      "description": "A berry-forward mineral and antioxidant lane for daily cellular resilience.",
+      "fit_metrics": {
+        "lead_match_pct": 0.4897362024941832,
+        "mean_cosine": 0.8651079712680207,
+        "mean_top3_overlap": 2.098921161447918,
+        "median_shift_pp": 29.493131443305522,
+        "p75_shift_pp": 33.12795577177908,
+        "strong_family_fit_pct": 0.48101566157785836,
+        "usable_or_better_fit_pct": 0.9171974528168594
+      },
+      "formula_descriptor": "Blueberry Beet Raspberry",
+      "formula_metrics": {
+        "lead_match_pct": 0.4897362024941832,
+        "mean_cosine": 0.8651079712680207,
+        "mean_top3_overlap": 2.098921161447918,
+        "median_shift_pp": 29.493131443305522,
+        "p75_shift_pp": 33.12795577177908,
+        "strong_family_fit_pct": 0.48101566157785836,
+        "usable_or_better_fit_pct": 0.9171974528168594
+      },
+      "formula_name": "Blueberry Beet Raspberry",
+      "function_focus": [
+        "antioxidants",
+        "minerals",
+        "cellular resilience"
+      ],
+      "function_name": "Antioxidant Minerals",
+      "headline": "A berry-forward mineral and antioxidant lane for daily cellular resilience.",
+      "id": "K8-S4",
+      "ingredients": [
+        {
+          "blend_percent": 19.5,
+          "item": "Blueberry",
+          "prototype_grams_15g": 2.925
+        },
+        {
+          "blend_percent": 15.5,
+          "item": "Beet",
+          "prototype_grams_15g": 2.325
+        },
+        {
+          "blend_percent": 12.5,
+          "item": "Raspberry",
+          "prototype_grams_15g": 1.875
+        },
+        {
+          "blend_percent": 8.0,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 1.2
+        },
+        {
+          "blend_percent": 8.0,
+          "item": "Mango",
+          "prototype_grams_15g": 1.2
+        },
+        {
+          "blend_percent": 7.5,
+          "item": "Strawberry",
+          "prototype_grams_15g": 1.125
+        },
+        {
+          "blend_percent": 7.0,
+          "item": "Turmeric",
+          "prototype_grams_15g": 1.05
+        },
+        {
+          "blend_percent": 3.5,
+          "item": "Pineapple",
+          "prototype_grams_15g": 0.525
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Antioxidant Minerals",
+      "nutrient_focus": [
+        "antioxidants",
+        "minerals",
+        "cellular resilience"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Magnesium",
+          "share": 92
+        },
+        {
+          "nutrient": "Vitamin A",
+          "share": 74
+        },
+        {
+          "nutrient": "Vitamin C",
+          "share": 68
+        },
+        {
+          "nutrient": "Copper",
+          "share": 52
+        }
+      ],
+      "population_share_pct": 12.4,
+      "population_weighted_pct": 0.12448287020895893,
+      "positioning": "A berry-forward mineral and antioxidant lane for daily cellular resilience.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "antioxidants",
+        "minerals",
+        "cellular resilience"
+      ]
+    },
+    {
+      "custom_function_name": "Custom Liver Vitality",
+      "customer_description": "Carrot, citrus, and beet support for liver function, vitamin A status, and everyday vitality.",
+      "data_rationale": "10.8% weighted share. Top formula: Carrot 21.5%, Lemon 18.5%, Beet 12.5%. Strongest median reward among K=8 standards, with ALT and GGT appearing more prominently in the priority layer.",
+      "description": "Carrot, citrus, and beet support for liver function, vitamin A status, and everyday vitality.",
+      "fit_metrics": {
+        "lead_match_pct": 0.4873175570553579,
+        "mean_cosine": 0.8851914483668568,
+        "mean_top3_overlap": 2.2615648911963144,
+        "median_shift_pp": 27.630516000615593,
+        "p75_shift_pp": 31.633844377868677,
+        "strong_family_fit_pct": 0.5593864321433367,
+        "usable_or_better_fit_pct": 0.9572488275331251
+      },
+      "formula_descriptor": "Carrot Lemon Beet",
+      "formula_metrics": {
+        "lead_match_pct": 0.4873175570553579,
+        "mean_cosine": 0.8851914483668568,
+        "mean_top3_overlap": 2.2615648911963144,
+        "median_shift_pp": 27.630516000615593,
+        "p75_shift_pp": 31.633844377868677,
+        "strong_family_fit_pct": 0.5593864321433367,
+        "usable_or_better_fit_pct": 0.9572488275331251
+      },
+      "formula_name": "Carrot Lemon Beet",
+      "function_focus": [
+        "liver support",
+        "vitamin A",
+        "everyday vitality"
+      ],
+      "function_name": "Liver Vitality",
+      "headline": "Carrot, citrus, and beet support for liver function, vitamin A status, and everyday vitality.",
+      "id": "K8-S5",
+      "ingredients": [
+        {
+          "blend_percent": 21.5,
+          "item": "Carrot",
+          "prototype_grams_15g": 3.225
+        },
+        {
+          "blend_percent": 18.5,
+          "item": "Lemon",
+          "prototype_grams_15g": 2.775
+        },
+        {
+          "blend_percent": 12.5,
+          "item": "Beet",
+          "prototype_grams_15g": 1.875
+        },
+        {
+          "blend_percent": 7.5,
+          "item": "Raspberry",
+          "prototype_grams_15g": 1.125
+        },
+        {
+          "blend_percent": 7.0,
+          "item": "Strawberry",
+          "prototype_grams_15g": 1.05
+        },
+        {
+          "blend_percent": 6.5,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 0.975
+        },
+        {
+          "blend_percent": 5.5,
+          "item": "Mango",
+          "prototype_grams_15g": 0.825
+        },
+        {
+          "blend_percent": 5.0,
+          "item": "Blueberry",
+          "prototype_grams_15g": 0.75
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Liver Vitality",
+      "nutrient_focus": [
+        "liver support",
+        "vitamin A",
+        "everyday vitality"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Vitamin A",
+          "share": 94
+        },
+        {
+          "nutrient": "Vitamin C",
+          "share": 70
+        },
+        {
+          "nutrient": "Magnesium",
+          "share": 58
+        },
+        {
+          "nutrient": "Fiber",
+          "share": 48
+        }
+      ],
+      "population_share_pct": 10.8,
+      "population_weighted_pct": 0.10835550395511491,
+      "positioning": "Carrot, citrus, and beet support for liver function, vitamin A status, and everyday vitality.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "liver support",
+        "vitamin A",
+        "everyday vitality"
+      ]
+    },
+    {
+      "custom_function_name": "Custom Cellular Defense",
+      "customer_description": "Blueberry and citrus support for antioxidant defense, healthy aging signals, and daily micronutrient coverage.",
+      "data_rationale": "10.0% weighted share. Top formula: Blueberry 21.5%, Lemon 18.5%, Beet 9.5%. High vitamin D and vitamin C opportunity with stronger Hs-CRP and PhenoAge priority signals.",
+      "description": "Blueberry and citrus support for antioxidant defense, healthy aging signals, and daily micronutrient coverage.",
+      "fit_metrics": {
+        "lead_match_pct": 0.5917678151749967,
+        "mean_cosine": 0.8734201029290815,
+        "mean_top3_overlap": 2.146991354622071,
+        "median_shift_pp": 30.00269622901564,
+        "p75_shift_pp": 33.29043404355811,
+        "strong_family_fit_pct": 0.5029515998121664,
+        "usable_or_better_fit_pct": 0.9468020622551153
+      },
+      "formula_descriptor": "Blueberry Lemon Beet",
+      "formula_metrics": {
+        "lead_match_pct": 0.5917678151749967,
+        "mean_cosine": 0.8734201029290815,
+        "mean_top3_overlap": 2.146991354622071,
+        "median_shift_pp": 30.00269622901564,
+        "p75_shift_pp": 33.29043404355811,
+        "strong_family_fit_pct": 0.5029515998121664,
+        "usable_or_better_fit_pct": 0.9468020622551153
+      },
+      "formula_name": "Blueberry Lemon Beet",
+      "function_focus": [
+        "antioxidant defense",
+        "healthy aging signals",
+        "micronutrients"
+      ],
+      "function_name": "Cellular Defense",
+      "headline": "Blueberry and citrus support for antioxidant defense, healthy aging signals, and daily micronutrient coverage.",
+      "id": "K8-S6",
+      "ingredients": [
+        {
+          "blend_percent": 21.5,
+          "item": "Blueberry",
+          "prototype_grams_15g": 3.225
+        },
+        {
+          "blend_percent": 18.5,
+          "item": "Lemon",
+          "prototype_grams_15g": 2.775
+        },
+        {
+          "blend_percent": 9.5,
+          "item": "Beet",
+          "prototype_grams_15g": 1.425
+        },
+        {
+          "blend_percent": 7.5,
+          "item": "Raspberry",
+          "prototype_grams_15g": 1.125
+        },
+        {
+          "blend_percent": 6.0,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 0.9
+        },
+        {
+          "blend_percent": 5.5,
+          "item": "Mango",
+          "prototype_grams_15g": 0.825
+        },
+        {
+          "blend_percent": 5.0,
+          "item": "Strawberry",
+          "prototype_grams_15g": 0.75
+        },
+        {
+          "blend_percent": 4.5,
+          "item": "Turmeric",
+          "prototype_grams_15g": 0.675
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Cellular Defense",
+      "nutrient_focus": [
+        "antioxidant defense",
+        "healthy aging signals",
+        "micronutrients"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Vitamin D",
+          "share": 90
+        },
+        {
+          "nutrient": "Vitamin C",
+          "share": 84
+        },
+        {
+          "nutrient": "Vitamin A",
+          "share": 66
+        },
+        {
+          "nutrient": "Magnesium",
+          "share": 56
+        }
+      ],
+      "population_share_pct": 10.0,
+      "population_weighted_pct": 0.10022041028459906,
+      "positioning": "Blueberry and citrus support for antioxidant defense, healthy aging signals, and daily micronutrient coverage.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "antioxidant defense",
+        "healthy aging signals",
+        "micronutrients"
+      ]
+    },
+    {
+      "custom_function_name": "Custom Metabolic Resilience",
+      "customer_description": "A root-berry blend for metabolic resilience, healthy inflammatory balance, and mineral support.",
+      "data_rationale": "9.3% weighted share. Top formula: Carrot 17.5%, Beet 16.5%, Raspberry 12.0%. Highest Hs-CRP priority signal, with vitamin A, vitamin C, magnesium, vitamin E, copper, and fiber opportunity.",
+      "description": "A root-berry blend for metabolic resilience, healthy inflammatory balance, and mineral support.",
+      "fit_metrics": {
+        "lead_match_pct": 0.3518724609111816,
+        "mean_cosine": 0.8639409969230818,
+        "mean_top3_overlap": 1.9718262744025277,
+        "median_shift_pp": 28.97003087777164,
+        "p75_shift_pp": 32.800681579146655,
+        "strong_family_fit_pct": 0.3489282998452465,
+        "usable_or_better_fit_pct": 0.8887154438341817
+      },
+      "formula_descriptor": "Carrot Beet Raspberry",
+      "formula_metrics": {
+        "lead_match_pct": 0.3518724609111816,
+        "mean_cosine": 0.8639409969230818,
+        "mean_top3_overlap": 1.9718262744025277,
+        "median_shift_pp": 28.97003087777164,
+        "p75_shift_pp": 32.800681579146655,
+        "strong_family_fit_pct": 0.3489282998452465,
+        "usable_or_better_fit_pct": 0.8887154438341817
+      },
+      "formula_name": "Carrot Beet Raspberry",
+      "function_focus": [
+        "metabolic resilience",
+        "inflammatory balance",
+        "mineral support"
+      ],
+      "function_name": "Metabolic Resilience",
+      "headline": "A root-berry blend for metabolic resilience, healthy inflammatory balance, and mineral support.",
+      "id": "K8-S7",
+      "ingredients": [
+        {
+          "blend_percent": 17.5,
+          "item": "Carrot",
+          "prototype_grams_15g": 2.625
+        },
+        {
+          "blend_percent": 16.5,
+          "item": "Beet",
+          "prototype_grams_15g": 2.475
+        },
+        {
+          "blend_percent": 12.0,
+          "item": "Raspberry",
+          "prototype_grams_15g": 1.8
+        },
+        {
+          "blend_percent": 9.0,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 1.35
+        },
+        {
+          "blend_percent": 8.0,
+          "item": "Blueberry",
+          "prototype_grams_15g": 1.2
+        },
+        {
+          "blend_percent": 8.0,
+          "item": "Mango",
+          "prototype_grams_15g": 1.2
+        },
+        {
+          "blend_percent": 7.5,
+          "item": "Turmeric",
+          "prototype_grams_15g": 1.125
+        },
+        {
+          "blend_percent": 6.5,
+          "item": "Strawberry",
+          "prototype_grams_15g": 0.975
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Metabolic Resilience",
+      "nutrient_focus": [
+        "metabolic resilience",
+        "inflammatory balance",
+        "mineral support"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Vitamin A",
+          "share": 88
+        },
+        {
+          "nutrient": "Vitamin C",
+          "share": 78
+        },
+        {
+          "nutrient": "Magnesium",
+          "share": 68
+        },
+        {
+          "nutrient": "Vitamin E",
+          "share": 52
+        },
+        {
+          "nutrient": "Copper",
+          "share": 46
+        },
+        {
+          "nutrient": "Fiber",
+          "share": 42
+        }
+      ],
+      "population_share_pct": 9.3,
+      "population_weighted_pct": 0.09267028536107737,
+      "positioning": "A root-berry blend for metabolic resilience, healthy inflammatory balance, and mineral support.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "metabolic resilience",
+        "inflammatory balance",
+        "mineral support"
+      ]
+    },
+    {
+      "custom_function_name": "Custom Recovery Balance",
+      "customer_description": "Tart cherry, citrus, and beet support for recovery, hydration, and healthy metabolic balance.",
+      "data_rationale": "8.3% weighted share. Top formula: Lemon 18.5%, Beet 10.0%, Tart Cherry 9.5%. Strong glucose and HbA1c priority signal with vitamin D, vitamin C, vitamin A, and magnesium opportunity.",
+      "description": "Tart cherry, citrus, and beet support for recovery, hydration, and healthy metabolic balance.",
+      "fit_metrics": {
+        "lead_match_pct": 0.6586094099164733,
+        "mean_cosine": 0.8225504058441454,
+        "mean_top3_overlap": 1.6253870486077178,
+        "median_shift_pp": 33.96940575726753,
+        "p75_shift_pp": 37.84230950319944,
+        "strong_family_fit_pct": 0.27406282372498686,
+        "usable_or_better_fit_pct": 0.7399193148622195
+      },
+      "formula_descriptor": "Lemon Beet Tart Cherry",
+      "formula_metrics": {
+        "lead_match_pct": 0.6586094099164733,
+        "mean_cosine": 0.8225504058441454,
+        "mean_top3_overlap": 1.6253870486077178,
+        "median_shift_pp": 33.96940575726753,
+        "p75_shift_pp": 37.84230950319944,
+        "strong_family_fit_pct": 0.27406282372498686,
+        "usable_or_better_fit_pct": 0.7399193148622195
+      },
+      "formula_name": "Lemon Beet Tart Cherry",
+      "function_focus": [
+        "recovery",
+        "hydration",
+        "metabolic balance"
+      ],
+      "function_name": "Recovery Balance",
+      "headline": "Tart cherry, citrus, and beet support for recovery, hydration, and healthy metabolic balance.",
+      "id": "K8-S8",
+      "ingredients": [
+        {
+          "blend_percent": 18.5,
+          "item": "Lemon",
+          "prototype_grams_15g": 2.775
+        },
+        {
+          "blend_percent": 10.0,
+          "item": "Beet",
+          "prototype_grams_15g": 1.5
+        },
+        {
+          "blend_percent": 9.5,
+          "item": "Tart Cherry",
+          "prototype_grams_15g": 1.425
+        },
+        {
+          "blend_percent": 8.5,
+          "item": "Pineapple",
+          "prototype_grams_15g": 1.275
+        },
+        {
+          "blend_percent": 7.0,
+          "item": "Blueberry",
+          "prototype_grams_15g": 1.05
+        },
+        {
+          "blend_percent": 7.0,
+          "item": "Coconut Water",
+          "prototype_grams_15g": 1.05
+        },
+        {
+          "blend_percent": 7.0,
+          "item": "Lime",
+          "prototype_grams_15g": 1.05
+        },
+        {
+          "blend_percent": 6.0,
+          "item": "Raspberry",
+          "prototype_grams_15g": 0.9
+        }
+      ],
+      "model_source": {
+        "formula_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/population_derived_standard_blends.json",
+        "function_name_artifact": "/Users/jake.pittman/Desktop/Nutrition Science - FLUIDS/out/v10_population_derived_standard_blends/k8_standard_function_names.csv",
+        "primary": "v10_depth8_app_faithful_custom_blend_population_run",
+        "selection": "survey_weighted_kmeans_k8_centroid_productization"
+      },
+      "name": "Recovery Balance",
+      "nutrient_focus": [
+        "recovery",
+        "hydration",
+        "metabolic balance"
+      ],
+      "nutrient_vector_preview": [
+        {
+          "nutrient": "Vitamin D",
+          "share": 86
+        },
+        {
+          "nutrient": "Vitamin C",
+          "share": 78
+        },
+        {
+          "nutrient": "Vitamin A",
+          "share": 64
+        },
+        {
+          "nutrient": "Magnesium",
+          "share": 56
+        },
+        {
+          "nutrient": "Potassium",
+          "share": 44
+        }
+      ],
+      "population_share_pct": 8.3,
+      "population_weighted_pct": 0.08274700184906252,
+      "positioning": "Tart cherry, citrus, and beet support for recovery, hydration, and healthy metabolic balance.",
+      "role": "population_derived_standard_function_lane",
+      "standard_set": "k_8",
+      "support_tags": [
+        "recovery",
+        "hydration",
+        "metabolic balance"
+      ]
+    }
+  ],
+  "source": "static_github_pages_fallback"
+}
